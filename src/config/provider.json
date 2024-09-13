@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "name": "小阅阅",
+      "url": "https://www.filesmej.cn/",
+      "invite_url": "http://a2b713055_y76a4.xuexianlao.cn/ustgtmps/8106224116048157c3d0308973cf13f8?uid=51",
+      "type": 0
+    },
+    {
+      "name": "猫猫看看",
+      "url": "https://code.sywjmlou.com.cn/",
+      "invite_url": "http://82d5131117iu476.tongwenjiaoyu.cn/kstief/f9717065325b32b167a9879cbcda5ad8?tsd=216",
+      "type": 0
+    },
+    {
+      "name": "可乐读书",
+      "url": "http://m.fbjcoru.cn/entry?upuid=3495063",
+      "reg": "入口\\d+.*?(http\\S+?(?=\\s|;|`))",
+      "type": 1
+    },
+    {
+      "name": "鱼儿阅读",
+      "url": "http://h5.eqlrqqt.cn/entry/index5?upuid=3131421",
+      "reg": "url_h51[.\\s=']*(http\\S+)'",
+      "type": 1
+    }
+  ]
+}
